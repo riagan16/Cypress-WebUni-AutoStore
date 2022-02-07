@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://webdriveruniversity.com",
+    "chromeWebSecurity": false,
+
+    "env": {
+        "webdriveruni_homepage": "https://webdriveruniversity.com"
+    }
+}
